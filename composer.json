@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": ">=5.4",
+    "johnpbloch/wordpress": "dev-master"
+  },
+  "extra": {
+    "wordpress-install-dir": "wordpress-core"
+  }
+}
